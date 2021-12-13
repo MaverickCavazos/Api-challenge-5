@@ -1,0 +1,28 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1;
+  }
+
+
+textarea {
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 26px;
+}
+
+.row {
+  border-bottom: 1px solid white;  
+  white-space: pre-wrap;
+
+}
+
+.time {
+    text-align: center;
+    border-top: 1px dashed black;
+}
+
+.btn {
+    background-color: turquoise;
+}
